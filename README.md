@@ -1,1 +1,2 @@
 # odin-recipes
+El proyecto Odin Recetas es una práctica aplicación web que demuestra mi aprendizaje en HTML. Gracias al curso, adquirí los conocimientos necesarios para estructurar páginas, utilizar etiquetas semánticas, crear listas, enlaces y organizar contenido de manera clara. Este proyecto refleja mi comprensión del lenguaje y mi capacidad para desarrollar páginas web funcionales y bien organizadas.
